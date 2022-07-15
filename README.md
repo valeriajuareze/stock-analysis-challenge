@@ -1,5 +1,8 @@
 # Stock Analysis Challenge
 ## Overview of Project
+
+Steve´s parents are passionate in green energy and they are planning to invest in just one green company, but Steve does not agree at all. So, he wants me to help him to analize the databases of all green stocks energy to find the best companies to invest in. Therefore, the purpose of this project is to analyze all the stocks with VBA, to reduce the chances of accidents and investment errors.
+
 ## Results 
 ### Refactoring Code
 First, to create my code, what I did was create the ticker Index with a variable 0, this, for everytime it changes of ticker start again in 0. Then, I created the three output arrays, this was important because if I did them as variables, then my code will not be runned, so I putted them: (12) to make them arrays instead of variables.
@@ -53,6 +56,10 @@ On the other hand in the refactoring code form 2017, we had an execution time of
 With the same results:
 
 ![image](https://user-images.githubusercontent.com/108365182/179146565-9107a019-2e7f-4ed6-a0ad-edd10341f307.png)
+
+### Recommendation 
+
+So, in base of the previous results, we can deduce that it will be a bad choice for Steve´s parents to invest in DAQO company, instead, I recommend them to invest in two companies, which are ENPH and RUN. We can say that in 2017 was a good year to invest in DAQO company, but according to 2018, we can say that it was not a good year for the company, so we recommend them to invest in other companies.
 
 ## Summary
 
